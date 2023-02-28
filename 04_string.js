@@ -37,7 +37,7 @@ console.log("Removing extra start and end spaces using trim(): ",myNameAfterTrim
 // Find the total extra spaces removed from the string - myName
 var count = myName.length - myNameAfterTrim.length;
 console.log(count);
-
+    
 console.log(myName.trimStart(), myName.trimEnd());
 
 console.log("includes()");
