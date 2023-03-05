@@ -10,6 +10,3 @@ var devloperSmart = "devloperSmart";
  squareOfWordlength(jave);
  squareOfWordlength(googleChrome);
  squareOfWordlength(devloperSmart);
- function angularD{}{
-    var ang =
- }
