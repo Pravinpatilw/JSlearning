@@ -28,4 +28,3 @@ var totalCount = 107;
 var typeoftotalCount = typeoftotalCount;
 console.log("typeoftotalCount",totalCount);
 
-c
